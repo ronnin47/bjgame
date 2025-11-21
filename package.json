@@ -10,9 +10,15 @@
   },
   "dependencies": {
     "expo": "~54.0.25",
+    "expo-av": "^16.0.7",
     "expo-status-bar": "~3.0.8",
+    "matter-js": "^0.20.0",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-dom": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-game-engine": "^1.2.0",
+    "react-native-svg": "^15.15.0",
+    "react-native-web": "^0.21.0"
   },
   "private": true
 }
