@@ -7,6 +7,7 @@ import { GameEngine } from 'react-native-game-engine';
 import Player from './src/Player';
 import Physics  from './src/Fisicas.js'
 import Controls from './src/Controls';
+import Platform from './src/Plataform.js';
 
 
 
